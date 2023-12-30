@@ -1,0 +1,75 @@
+.view-btn
+{
+    border: none;
+    background-color: rgba(245, 55, 55, 0.834);
+    color: white;
+    font-weight: bold;
+    height: 30px;
+    
+}
+.blog-btn
+{
+    border: none;
+    align-items: end;
+    background-color: rgb(255, 75, 75);
+    color: white;
+    font-weight: bold;
+    width: 60px;
+    height: 35px;
+}
+.button-box
+{
+    align-items: center;
+    text-align: center;
+}
+.video-box
+{
+    width: 300px;
+    height: 350px;
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    align-items: center;
+    border-radius: 10px;
+}
+#content-box
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.thum-img
+{
+    width: 280px;
+    height: 200px;
+    border-radius: 10px;
+}
+.profile-title
+{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    
+}
+.pro-img
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 200px;
+    
+}
+.no-img
+{
+width: 200px;
+height: 200px;
+padding: 10px;
+}
+.no-con
+{
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+}
